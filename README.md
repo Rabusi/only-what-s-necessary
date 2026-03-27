@@ -69,9 +69,9 @@ framework.
 ![Architecture](images/architecture.jpg)
 
 ## 📊 Results
-![](images/heatmaps_minimization.png)
+![](images/hm.jpg)
 
-![](images/pareto_projections_auc_cmap_auc_f1.png)
+![](images/pt.jpg)
 
 ## 📬 Contact
 
