@@ -1,28 +1,18 @@
 # Only What’s Necessary: Pareto-Optimal Data Minimization for Privacy Preserving Video Anomaly Detection
-
 ---
 
-<p align="center">
-  <a href="https://github.com/Rabusi/only-what-s-necessary/stargazers">
-    <img src="https://github.com/Rabusi/only-what-s-necessary?style=social" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/Rabusi/only-what-s-necessary/network/members">
-    <img src="https://github.com/Rabusi/only-what-s-necessary?label=Forks&style=social" alt="GitHub Forks">
-  </a>
-  <a href="https://arxiv.org/abs/2504.14301">
-    <img src="https://img.shields.io/badge/arXiv-2504.14301-b31b1b.svg" alt="arXiv:2504.14301">
-  </a>
-</p>
+[Nazia Aslam](https://rabusi.github.io/), [Abhisek Ray](https://scholar.google.com/citations?user=a7HOeC8AAAAJ&hl=en), [Thomas B. Moeslund](https://scholar.google.com/citations?user=XmkDts4AAAAJ&hl=da), [Kamal Nasrollahi](https://scholar.google.com/citations?user=EqjkO6sAAAAJ&hl=en)
 
----
 
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.11072)
 
 ⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
 
-**"Only What’s Necessary: Pareto-Optimal Data Minimization for Privacy Preserving Video Anomaly Detection."**
+---
 
-## 📄 Abstract
+**Official PyTorch implementation for Only What’s Necessary: Pareto-Optimal Data Minimization for Privacy Preserving Video Anomaly Detection.**
 
+> **Abstract:**
 Video anomaly detection (VAD) systems are increasingly
 deployed in safety-critical environments and require a large
 amount of data for accurate detection. However, such data
@@ -58,8 +48,7 @@ framework.
 ├── 📄 Config.py
 ├── 📄 Evaluation.py
 ├── 📄 train.py
-├── 📄 train_privacy.py                 
-├── 📄 readme
+├── 📄 train_privacy.py 
 
 ```                       
 
