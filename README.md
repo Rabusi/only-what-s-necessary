@@ -4,7 +4,7 @@
 [Nazia Aslam](https://rabusi.github.io/), [Abhisek Ray](https://scholar.google.com/citations?user=a7HOeC8AAAAJ&hl=en), [Thomas B. Moeslund](https://scholar.google.com/citations?user=XmkDts4AAAAJ&hl=da), [Kamal Nasrollahi](https://scholar.google.com/citations?user=EqjkO6sAAAAJ&hl=en)
 
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2308.11072)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2603.26354)
 
 ⭐ If you find this work helpful to your research, Don't forget to give a star to this repo. Thanks! 🤗
 
